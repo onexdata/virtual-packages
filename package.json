@@ -1,0 +1,23 @@
+{
+  "name": "virtual-packages",
+  "version": "1.0.0",
+  "description": "Allows calling unpublished NPM packages as if they were published",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onexdata/virtual-packages.git"
+  },
+  "homepage": "https://github.com/onexdata/virtual-packages",
+  "keywords": [
+    "npm",
+    "publish",
+    "package",
+    "private",
+    "virtual"
+  ],
+  "author": "Nick Steele <njsteele@gmail.com>",
+  "license": "MIT"
+}
